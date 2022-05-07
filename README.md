@@ -7,6 +7,7 @@ https://drive.google.com/file/d/1cGNkk5QNHqck9DfAJopxRFZ6ZYTLKPxR/view?usp=shari
 
 ```
 unzip dataset.zip
+mkdir result
 ```
 
 ## Dependency
