@@ -2,6 +2,13 @@
 
 This reposity is official implementation of "3E-Slover: An Effortless, Easy-to-Update, and End-to-End Solver with Semi-Supervised Learning for Breaking Text-Based Captchas" (IJCAI-2022).
 
+## Dataset
+https://drive.google.com/file/d/1cGNkk5QNHqck9DfAJopxRFZ6ZYTLKPxR/view?usp=sharing
+
+```
+unzip dataset.zip
+```
+
 ## Dependency
 ```
 torch=1.9.0+cu111
