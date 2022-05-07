@@ -30,3 +30,16 @@ python FixMatch_2.py --dataset weibo --label 500.txt --unlabeled-number 5000 --e
 python FixMatch_2.py --dataset wikipedia --label 500.txt --unlabeled-number 5000 --epoch 400 --lr 0.01
 python FixMatch_2.py --dataset yandex --label 500.txt --unlabeled-number 5000 --epoch 400 --lr 0.01
 ```
+
+## Result
+
+| Scheme      | Accuracy    |
+| ----------- | ----------- |
+| Google      | 76.4%       |
+| Microsoft   | 96.4%       |
+| Yandex      | 90.4%       |
+| Wikiepdia   | 98.5%       |
+| Weibo       | 92.5%       |
+| Sina        | 97.1%       |
+| Apple       | 92.9%       |
+| Ganji       | 99.4%       |
